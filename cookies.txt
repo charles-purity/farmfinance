@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+coredgex.com	TRUE	/	FALSE	1999999999	Gewsgtfahsop	deleted
+.coingecko.com	TRUE	/	FALSE	1999999999	__cf_bm	NUMGKVumBwPb.N4x4UmA1tZCjjcdNYV6nPDBeeV.hko-1709426937-1.0.1.1-x7C2ekzBd8SfaNviXSrE0_zrmkPGnClCwWsbvbdp22lmkQti2lNAfubhewm_f7tZ.0vuuVJ2.a4D2bZO8rfDCQ
+assets.coingecko.com	TRUE	/	FALSE	1999999999	SameSite	None
+
